@@ -21,4 +21,4 @@ Contents:
 + Deep Learning project: Image Classifier
 
 3. **Unsupervised Learning**
-+ to be added
++ Unsupervised Learning project: Identifying Customer Segments
